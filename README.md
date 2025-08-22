@@ -55,6 +55,6 @@ The dataset follows a folder-based structure, organized by celebrity name:
 
 ## Watch a demo
 
-[🎥 Watch Demo](User_Interface/demo.mp4)
+[🎥 Watch Demo](User_Interface/demo)
 
 
