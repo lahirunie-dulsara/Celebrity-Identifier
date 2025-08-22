@@ -55,6 +55,6 @@ The dataset follows a folder-based structure, organized by celebrity name:
 
 ## Watch a demo
 
-[🎥 Watch Demo](demo.mp4)
-
+[[🎥 Watch Demo](demo.mp4)
+](https://github.com/lahirunie-dulsara/Celebrity-Identifier/blob/main/User_Interface/demo.mp4)
 
